@@ -9,6 +9,6 @@ Historically, I am bad at math. Even when I write down the problem, use a calcul
 
 ## Preview
 
-[Check My Bad Math logo](./checkmybadmath)
+![Check My Bad Math logo](./checkmybadmath.png)
 
 ## Badges
