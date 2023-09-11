@@ -7,6 +7,8 @@ Historically, I am bad at math. Even when I write down the problem, use a calcul
 
 ## Table of Contents
 
-# Preview
+## Preview
 
-# Badges
+[Check My Bad Math logo](./checkmybadmath)
+
+## Badges
